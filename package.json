@@ -1,0 +1,19 @@
+{
+  "name": "@vision/rules",
+  "version": "0.0.7",
+  "description": "code rules",
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.mockuai.com:fe-infra/code-rules.git"
+  },
+  "author": "xuwenhua",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^8.3.4",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-declaration-block-no-ignored-properties": "^2.1.0",
+    "stylelint-order": "^4.0.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@fl/eslint-config-vue2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepublishOnly": "./check-dist-tag.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "xuwenhua",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-plugin-vue": "^8.5.0"
+  },
+  "peerDependencies": {
+    "vue": "2.x"
+  }
+}
