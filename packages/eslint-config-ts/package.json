@@ -1,5 +1,5 @@
 {
-  "name": "@fl/eslint-config-ts",
+  "name": "@vision/eslint-config-ts",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",

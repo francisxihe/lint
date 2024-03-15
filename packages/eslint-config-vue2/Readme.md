@@ -8,7 +8,7 @@
 
 ``` js
 module.exports = {
-  extends: ['@fline', '@vision/vue'],
+  extends: ['@vision', '@vision/vue'],
   rules: {
     // your rules
   },

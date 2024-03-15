@@ -1,6 +1,6 @@
 ``` js
 module.exports = {
-  extends: ['@fline', '@vision/vue', '@vision/ts'],
+  extends: ['@vision', '@vision/vue', '@vision/ts'],
   rules: {
     // your rules
   },
