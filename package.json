@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git@gitlab.mockuai.com:fe-infra/code-rules.git"
   },
-  "author": "xuwenhua",
+  "author": "francisxihe",
   "license": "ISC",
   "dependencies": {
     "@commitlint/config-conventional": "^8.3.4",

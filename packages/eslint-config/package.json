@@ -9,7 +9,7 @@
   "keywords": [
     "eslint"
   ],
-  "author": "xuwenhua",
+  "author": "francisxihe",
   "license": "ISC",
   "dependencies": {
     "@babel/eslint-parser": "^7.18.9",

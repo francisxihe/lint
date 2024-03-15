@@ -9,7 +9,7 @@
   "keywords": [
     "eslint"
   ],
-  "author": "xuwenhua",
+  "author": "francisxihe",
   "license": "ISC",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.33.1",
