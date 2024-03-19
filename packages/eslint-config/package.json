@@ -1,6 +1,6 @@
 {
   "name": "@vision/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   "dependencies": {
     "@babel/eslint-parser": "^7.18.9",
     "@babel/eslint-plugin": "^7.18.10",
-    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-import-resolver-webpack": "^0.12.2",
     "eslint-plugin-import": "^2.26.0",
